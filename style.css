@@ -1,18 +1,17 @@
 body{
     background-color: black;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
 .firstSec{
     display: flex;
     justify-content: center;
     align-items: center;
+     margin-top: 5rem;   
 }
 .secondSec{
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: 5rem;
 }
 .row{
     display: flex;
@@ -22,6 +21,29 @@ body{
 .box{
     width: 100px;
     height: 100px;
-    background-color: red;
     margin: 20px;
+}
+.rose{
+    background-image: url(./Assets/رز.jpg);
+    background-size: cover;
+}
+.orkide{
+    background-image: url(./Assets/ارکیده.jpg);
+    background-size: cover;
+}
+.lale{
+    background-image: url(./Assets/لاله.jpg);
+    background-size: cover;
+}
+.davoodi{
+    background-image: url(./Assets/داوودی.jpg);
+    background-size: cover;
+}
+.shabBoo{
+    background-image: url(./Assets/شب\ بو.jpg);
+    background-size: cover;
+}
+.aftabGardoon{
+    background-image: url(./Assets/آفتاب\ گردون.jpg);
+    background-size: cover;
 }
