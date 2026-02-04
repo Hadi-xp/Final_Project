@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.firstSec{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.secondSec{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.row{
+    display: flex;
+    justify-content: center;
+}
+/* box style */
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin: 20px;
+}
